@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @uzojudo
-- 👀 I’m interested in cloud DevOps engineering
+- 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on python projects and cloud labs
 
